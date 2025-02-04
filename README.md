@@ -1,2 +1,2 @@
 # Countdown-timer
-built  a countdown timer using python
+Built a countdown timer using python's time library
